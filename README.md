@@ -40,9 +40,13 @@ This notes have written during my learning and building KeblaOS.
 
 12. [Chapter 12](./gdb_debugging.md) : GDB Debugging
 
-13. [Manage Disk Image](./disk-image-manage.md) : Manging Virtual Disk Image
+13. [Manage Disk Image](./disk-image-manage.md) : Managing Virtual Disk Image
 
-100. [References](./Reference.md)
+14. [Installation Process](./installation_process.md) : This article will install KeblaOS into the Disk
+
+15. [Filesystem](./fat32_fs.md) : Tutorials of building Filesystem
+
+100. [References](./Reference.md) : Following References helps to build KeblaOS
 -------------------------------------------------------
 
 
